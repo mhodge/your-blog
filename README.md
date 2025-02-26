@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter
+# Nuxt and Nuxt Content minimal starter blog using Tailwind
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
